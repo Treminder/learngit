@@ -6,7 +6,7 @@ asfasdfsaafa
 sadf
 <<<<<<< HEA
 Creating a new branch is quick &simple
-=======
+======afsaf
 sfsfd
 Creating a new branch is quick and simple.ZZ
 >>>>>>> featurel
